@@ -33,4 +33,4 @@ build/
 .vscode/
 
 ### POM ###
-.m2
+.m2/
