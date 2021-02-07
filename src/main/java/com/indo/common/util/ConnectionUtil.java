@@ -3,7 +3,14 @@ package com.indo.common.util;
 
 import java.net.URL;
 import java.net.URLConnection;
-
+/**
+ * ConnectionUtil
+ * this is simple tool to check host availability
+ *
+ * @author  kneotrino
+ * @version 1.0
+ * @since   2021-1-1
+ */
 public class ConnectionUtil {
     public static boolean isConnectedToServer(String url, int timeout) {
         try{

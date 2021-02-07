@@ -4,8 +4,12 @@ package com.indo.common.util;
 import org.modelmapper.ModelMapper;
 
 /**
- * @author Kneotrino
- * @date 17/12/20
+ * ModelMapUtil
+ * Singleton to provide ModelMapper in DTO conversion
+ *
+ * @author  kneotrino
+ * @version 1.0
+ * @since   2021-1-1
  */
 public class ModelMapUtil {
 

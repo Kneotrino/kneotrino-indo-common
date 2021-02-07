@@ -6,8 +6,12 @@ import java.io.IOException;
 import java.util.List;
 
 /**
- * @author Kneotrino
- * @date 17/12/20
+ * BaseService
+ * this is simple service for spring boot service
+ *
+ * @author  kneotrino
+ * @version 1.0
+ * @since   2021-1-1
  */
 public interface BaseService<DTO> {
 

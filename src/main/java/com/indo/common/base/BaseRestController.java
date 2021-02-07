@@ -8,8 +8,12 @@ import java.io.IOException;
 import java.util.List;
 
 /**
- * @author Kneotrino
- * @date 17/12/20
+ * BaseRestController
+ * this is simple interface for spring boot controllers
+ *
+ * @author  kneotrino
+ * @version 1.0
+ * @since   2021-1-1
  */
 public interface BaseRestController<DTO> {
 

@@ -1,6 +1,15 @@
 package com.indo.common.constant;
 
-//ISO/IEC 5218
+
+/**
+ * EnumGender
+ * by standard ISO/IEC 5218
+ *
+ * @author  kneotrino
+ * @version 1.0
+ * @since   2021-1-1
+ */
+
 public enum EnumGender {
     MALE,
     FEMALE,
